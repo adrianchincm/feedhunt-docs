@@ -1,2 +1,2 @@
 # feedhunt-docs
-Feedhunt wiki
+Go to the wiki section to view the wiki
