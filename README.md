@@ -1,0 +1,2 @@
+# feedhunt-docs
+Feedhunt wiki
